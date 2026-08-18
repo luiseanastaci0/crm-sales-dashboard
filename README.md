@@ -17,9 +17,11 @@ Maven Tech, a company specialised in selling computer hardware to large business
 * **Key Insights:**
   * **Insight 1:** Sales opportunities in the West Regional Office peaked in Q4 with 27 deals, making it the highest-grossing department of the company during the quarter.
   * **Insight 2:** Sales in the Central Regional Office dropped 38 deals compared with Q3.
+ 
+  ## 📸 Dashboard Preview & Live Link
+*(Add screenshots of your dashboard here)*
 
-
-## 📸 Dashboard Preview & Live Link
+🔗 **[View Live Dashboard on Google Sheets](PASTE_YOUR_PUBLIC_GOOGLE_SHEETS_LINK_HERE)** *(Read-Only Mode)*
 
 
 🔗 **[View Live Dashboard on Google Sheets](PASTE_YOUR_PUBLIC_GOOGLE_SHEETS_LINK_HERE)** *(Read-Only Mode)*
