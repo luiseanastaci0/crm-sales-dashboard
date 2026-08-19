@@ -21,9 +21,9 @@ Maven Tech, a company specialised in selling computer hardware to large business
   * **Insight 2:** Sales in the Central Regional Office dropped 38 deals compared with Q3.
  
   ## 📸 Dashboard Preview & Live Link
+![Image Alt](https://github.com/luiseanastaci0/crm-sales-dashboard/blob/main/crm_sales_dashboard_screenshot.png?raw=true)
 
-
-🔗 **[View Live Dashboard on Google Sheets](PASTE_YOUR_PUBLIC_GOOGLE_SHEETS_LINK_HERE)** *(Read-Only Mode)*
+🔗 **https://docs.google.com/spreadsheets/d/1lkhBqJ4rND0qp_JqUZMoByN3qsYzNbkDzhK6DlI0DgQ/edit?usp=sharing** *(Read-Only Mode)*
 
 
 🔗 **[View Live Dashboard on Google Sheets](PASTE_YOUR_PUBLIC_GOOGLE_SHEETS_LINK_HERE)** *(Read-Only Mode)*
