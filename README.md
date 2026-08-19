@@ -23,8 +23,6 @@ Maven Tech, a company specialised in selling computer hardware to large business
   ## 📸 Dashboard Preview & Live Link
 ![Image Alt](https://github.com/luiseanastaci0/crm-sales-dashboard/blob/main/crm_sales_dashboard_screenshot.png?raw=true)
 
-🔗 **https://docs.google.com/spreadsheets/d/1lkhBqJ4rND0qp_JqUZMoByN3qsYzNbkDzhK6DlI0DgQ/edit?usp=sharing** *(Read-Only Mode)*
+🔗 **https://docs.google.com/spreadsheets/d/e/2PACX-1vRNaWNNRde6IyffRDsuKCNBMyZcq-8lPJmzjwXdeTkUa5aZxc0VdAr377wD6NZlYqRjkle-t7fF1L5B/pub?output=xlsx** *(Read-Only Mode)*
 
-
-🔗 **[View Live Dashboard on Google Sheets](PASTE_YOUR_PUBLIC_GOOGLE_SHEETS_LINK_HERE)** *(Read-Only Mode)*
 
